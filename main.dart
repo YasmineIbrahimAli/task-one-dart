@@ -1,5 +1,4 @@
-main()
-{
-  String n="yasmine";
-  print("$n");
+main(){
+  const int x=7;
+  print(x);
 }
